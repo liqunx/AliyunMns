@@ -27,7 +27,8 @@
 			"type": "zip"
 		}
 	    }
-	},
+	}
+    ], 
     "require": {
         "php": ">=5.5.9",
         "illuminate/support": "5.*",
