@@ -17,18 +17,17 @@
         }
     ],
     "repositories": [
-        {
-			"type": "package",
-			"package": {
-				"name": "aliyun/mns",
-				"version": "1.2.2",
-				"dist": {
-					"url": "https://docs-aliyun.cn-hangzhou.oss.aliyun-inc.com/cn/mns/0.0.53/assets/sdks/aliyun-mns-php-sdk-1.2.2.zip",
-					"type": "zip"
-				}
-			}
+	 {
+	    "type": "package",
+	    "package": {
+		"name": "aliyun/mns",
+		"version": "1.3.4",
+		"dist": {
+			"url": "http://docs-aliyun.cn-hangzhou.oss.aliyun-inc.com/assets/attach/32381/cn_zh/1492071739024/aliyun-mns-php-sdk-1.3.4.zip",
+			"type": "zip"
 		}
-    ],
+	    }
+	},
     "require": {
         "php": ">=5.5.9",
         "illuminate/support": "5.*",
